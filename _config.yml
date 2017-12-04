@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Parker C. Lusk"
 title_separator          : "-"
 name                     : &name "Parker C. Lusk"
-description              : &description "personal description"
+description              : &description "M.S. Electrical Engineering"
 url                      : https://plusk01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "plusk01/plusk01.github.io"
@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Parker C. Lusk"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "Researching perception, estimation, and control of autonomous systems"
   location         : "Provo, UT"
   employer         : "Brigham Young University"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=f3ShSu0AAAAJ&hl=en"
   email            : "parkerclusk@gmail.com"
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9755-1276"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/2392520/parker-lusk"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
